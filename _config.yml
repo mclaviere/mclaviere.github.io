@@ -29,16 +29,16 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 Experience Section
-experience_title: Experience
+experience_title: Experiences professionnelles
 
 Education Section
 ducaton_title: Education
 
 Projects Section
-projects_title: Projects
+projects_title: compétences
 
-# More Section
-# more_title: A Little More About Me
+More Section
+more_title: Activités personelles 
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
