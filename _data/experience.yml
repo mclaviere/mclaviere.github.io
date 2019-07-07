@@ -1,12 +1,10 @@
+# Experience template
 - layout: left
-  company: Projet « Transforming Early Maker »  (emlyon Business school) 
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Company name
+  link: Link to company (optional)
+  job_title: Job title
+  dates: Date Range (eg. November 2016 - present)
   quote: >
+   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-   
-Projet de douze semaines visant à initier une startup dans le domaine de l’intelligence artificielle:
- - Mise en oeuvre de méthodes de structuration de l’innovation (Design thinking, méthode Concept Knowledge (CK) 
-- Etude des diférents usages possibles de l’IA et de ses synergies avec les autres technologies existantes (IoT, Blockchain) 
-- Développement d’une interface utilisateur pour site internet et application mobile par Adobe XD
+    Description of role
