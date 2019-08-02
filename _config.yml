@@ -38,10 +38,9 @@ ducaton_title: Education
 projects_title: compétences
 
 # More Section
-more_title: Activités personelles 
+more_title: Centre d'intérêts 
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+   - <bold>Sport :</bold> course à pied (trail, semi-marathon), randonnée 
    - Gaming
    - Knitting
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
