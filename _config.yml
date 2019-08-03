@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Mathieu Claviere, PhD
-title: Marketing digital
+title: Marketing et transformation digitale
 email: contact@mathieuclaviere.com
 website: mathieuclaviere.com
 
@@ -42,7 +42,7 @@ more_title: Centre d'intérêts
 more_content: | # this will include new lines to allow paragraphs
    - <b>Sport :</b> course à pied (trail, semi-marathon), randonnée 
    - <b>Voyages autonomes :</b> Japon, Kirghizistan, Thaïlande, Maroc , Italie , Irlande, Grèce, Espagne, Madère 
-   - <b>Photographie et technologies digitales:</b>  Développement technique et éditorial du site web de voyage (capturexplore.com) : Implémentation de Wordpress, rédaction des articles, traitement des photos via Adobe Lightroom, Search Engine Optimisation 
+   - <b>Photographie et technologies digitales:</b>  Développement technique et éditorial du site web de voyage (https://capturexplore.com) : Implémentation de Wordpress, rédaction des articles, traitement des photos via Adobe Lightroom, Search Engine Optimisation 
 
 
 # Footer
