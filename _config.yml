@@ -40,17 +40,17 @@ projects_title: compétences
 # More Section
 more_title: Centre d'intérêts 
 more_content: | # this will include new lines to allow paragraphs
-    <center><b>Sport</b></center> 
+    <b>Sport</b>
 
-    <center>course à pied (trail, semi-marathon), randonnée</center>  
+    course à pied (trail, semi-marathon), randonnée  
 
-    <center><b>Voyages autonomes </b></center>  
+    <b>Voyages autonomes </b>  
 
-    <center>Japon, Kirghizistan, Thaïlande, Maroc , Italie , Irlande, Grèce, Espagne, Madère</center>  
+    Japon, Kirghizistan, Thaïlande, Maroc , Italie , Irlande, Grèce, Espagne, Madère  
    
-    <center><b>Photographie et technologies digitales</b></center> 
+    <b>Photographie et technologies digitales</b> 
   
-    <center>Développement technique et éditorial du site web de voyage (https://capturexplore.com) : Implémentation de Wordpress, rédaction des articles, traitement des photos via Adobe Lightroom, Search Engine Optimisation</center> 
+    Développement technique et éditorial du site web de voyage (https://capturexplore.com) : Implémentation de Wordpress, rédaction des articles, traitement des photos via Adobe Lightroom, Search Engine Optimisation
 
 
 # Footer
