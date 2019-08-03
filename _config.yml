@@ -41,9 +41,9 @@ projects_title: compétences
 more_title: Centre d'intérêts 
 more_content: | # this will include new lines to allow paragraphs
    - <b>Sport :</b> course à pied (trail, semi-marathon), randonnée 
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - <b>Voyages autonomes :</b> Japon, Kirghizistan, Thaïlande, Maroc , Italie , Irlande, Grèce, Espagne, Madère 
+   - <b>Photographie et technologies digitales:</b>  Développement technique et éditorial du site web de voyage (capturexplore.com) : Implémentation de Wordpress, rédaction des articles, traitement des photos via Adobe Lightroom, Search Engine Optimisation 
+
 
 # Footer
 footer_show_references: true
