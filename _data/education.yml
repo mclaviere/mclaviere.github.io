@@ -17,7 +17,7 @@
   dates: 2015 - 2018 
   qualification: Doctorat en sciences de la vie 
   description: | # this will include new lines to allow paragraphs
-    <b>Travail de thèse réalisé au sein de l'institut national de la recherche médicale (INSERM).</b>
+    <b>Travail de thèse réalisé au sein de l'institut national de la recherche médicale (INSERM)</b>
     
     Doctorat soutenu et délivré par l'ENS de Lyon
 - layout: left
@@ -26,12 +26,8 @@
   qualification: Master Biosciences
   description: | # this will include new lines to allow paragraphs
     <b> Mention très bien </b>
-   
-    Initiation à l'analyse de donnée et à la data visualisation (Utilisation de R)
-
-    Dans le cadre d'une UE de communication scientifique, auteur associé d'un article publié dans une revue évaluée par les pairs:<br>
-    
-    <i>Dutartre, H., Clavière, M., Journo, C. & Mahieux, R. Cell-Free versus Cell-to-Cell Infection by Human Immunodeficiency Virus Type 1 and Human T-Lymphotropic Virus Type 1: Exploring the Link among Viral Source, Viral Trafficking, and Viral Replication. J. Virol. 90, 7607–17 (2016).</i>
+    - Initiation à l'analyse de donnée et à la data visualisation (Utilisation de R)
+    - Dans le cadre d'une UE de communication scientifique, auteur associé d'un article publié dans une revue évaluée par les pairs (Dutartre, H., Clavière, M., Journo, C. & Mahieux, R. Cell-Free versus Cell-to-Cell Infection by Human Immunodeficiency Virus Type 1 and Human T-Lymphotropic Virus Type 1: Exploring the Link among Viral Source, Viral Trafficking, and Viral Replication. J. Virol. 90, 7607–17 (2016)
     
 - layout: left
   name: ENS Lyon
