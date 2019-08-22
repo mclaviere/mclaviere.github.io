@@ -27,11 +27,11 @@
   description: | # this will include new lines to allow paragraphs
     <b> Mention très bien </b>
     - Initiation à l'analyse de donnée et à la data visualisation (Utilisation de R)
-    - Dans le cadre d'une UE de communication scientifique, auteur associé d'un article publié dans une revue évaluée par les pairs (Dutartre, H., Clavière, M., Journo, C. & Mahieux, R. Cell-Free versus Cell-to-Cell Infection by Human Immunodeficiency Virus Type 1 and Human T-Lymphotropic Virus Type 1: Exploring the Link among Viral Source, Viral Trafficking, and Viral Replication. J. Virol. 90, 7607–17 (2016)
+    - Dans le cadre d'une UE de communication scientifique, auteur associé d'un article publié dans une revue évaluée par les pairs <i>(Dutartre, H., Clavière, M., Journo, C. & Mahieux, R. Cell-Free versus Cell-to-Cell Infection by Human Immunodeficiency Virus Type 1 and Human T-Lymphotropic Virus Type 1: Exploring the Link among Viral Source, Viral Trafficking, and Viral Replication. J. Virol. 90, 7607–17 (2016)) </i>
     
-- layout: left
-  name: ENS Lyon
-  dates: 2012 - 2013
-  qualification: Licence Biosciences 
-  description: | # this will include new lines to allow paragraphs
-    <b> Licence en biologie générale </b>
+#- layout: left
+#  name: ENS Lyon
+#  dates: 2012 - 2013
+#  qualification: Licence Biosciences 
+#  description: | # this will include new lines to allow paragraphs
+#    <b> Licence en biologie générale </b>
