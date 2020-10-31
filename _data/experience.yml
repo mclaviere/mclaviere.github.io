@@ -4,14 +4,14 @@
   job_title: Consultant IT & Data Architecture 
   dates: Février 2020 - Maintenant
   description: | # this will include new lines to allow paragraphs
-    - Mise en place de Data Gouvernance :
-           - Définition des rôles et responsabilités métiers / DSI 
-           - Cartographie des données
-           - Déploiement d'un outillage de Data lineage (Data Galaxy)
-           - Définition des process de Gouvernance 
-    - Consolidation et automatisation de Tableaux de Bords :
-           - Consolidation de 40 Tableaux de bords Excel filiales via le développement d'une marco VBA. 
-           - Automatisation de la collecte et de la visualisation des données via la création d'un workflow sur les outils Google Gsuite (Form, Sheet, Data Studio)
+    <b>Mise en place de Data Gouvernance :</b><br>
+    - Cartographie des données
+    - Déploiement d'un outillage de Data lineage (Data Galaxy)
+    - Définition des rôles et responsabilités métiers / DSI 
+    - Définition des process de Gouvernance 
+    <b>Consolidation et automatisation de Tableaux de Bords de cybersécurité :</b><br>
+    - Consolidation de 40 Tableaux de bords Excel filiales via le développement d'une marco VBA. 
+    - Automatisation de la collecte et de la visualisation des données via la création d'un workflow sur les outils Google Gsuite (Form, Sheet, Data Studio)
 - layout: left- layout: left
   company: Urgo Healthcare
   link: https://www.urgo-group.fr/
