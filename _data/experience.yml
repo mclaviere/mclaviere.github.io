@@ -5,7 +5,7 @@
   dates: Février 2020 - Maintenant
   description: | # this will include new lines to allow paragraphs
     <b> Mise en place d'une Data Gouvernance </b><br>
-    - Cartographie des données
+    - Cartographie des données de l'organisation (SAP, Salesforce, Exadata, Azure Datawarehouse)
     - Déploiement d'un outillage de Data lineage (Data Galaxy)
     - Définition des rôles et responsabilités métiers / DSI 
     - Définition des process de Gouvernance
