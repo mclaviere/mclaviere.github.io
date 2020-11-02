@@ -4,7 +4,7 @@
   job_title: Consultant IT & Data Architecture 
   dates: Février 2020 - Maintenant
   description: | # this will include new lines to allow paragraphs
-    <b> Mise en place d'une Gouvernance de la donnée </b><br>
+    <b> Data Steward : Mise en place d'une Gouvernance de la donnée </b><br>
     - Cartographie des données de l'organisation (SAP, Salesforce, Exadata, Azure Datawarehouse)
     - Construction d'un dictionnaire et d'un glossaire de la donnée
     - Déploiement d'un outillage de Data lineage (Data Galaxy) et intégration du dictionnaire / glossaire
@@ -12,10 +12,10 @@
     - Définition des process de Gouvernance
     - Conduite du changement auprès des acteurs DSI et métiers
 
-    <b> Consolidation et automatisation de Tableaux de Bords de cybersécurité </b><br>
+    <b> Data Analyst : Consolidation et automatisation de Tableaux de Bords de cybersécurité </b><br>
     - Consolidation de 40 Tableaux de bords Excel filiales via le développement d'une macro VBA 
     - Automatisation de la collecte et de la visualisation des données via la création d'un workflow sur les outils Google Gsuite (Form, Sheet, Data Studio)
-    - Analyse et synthèse des résulats pour présentation au comité executif du groupe 
+    - Analyse et synthèse des résultats pour présentation au comité éxécutif du groupe 
 
 - layout: left
   company: Urgo Healthcare
